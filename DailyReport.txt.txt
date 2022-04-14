@@ -9,3 +9,11 @@ Day-1   Date- 12/04/22
 
 Making proposal of the issue told by abhinav so that we can ask the maintainers.
 Tring to know how the project is working and exploring the codebase.  
+
+
+Day-3  Date- 14/04/22
+
+Mailed proposal to Abhinav and explored more about the project.
+Figuring out how can we use the project.
+
+
