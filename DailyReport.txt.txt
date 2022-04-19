@@ -16,4 +16,14 @@ Day-3  Date- 14/04/22
 Mailed proposal to Abhinav and explored more about the project.
 Figuring out how can we use the project.
 
+Day-4  Date- 18/04/22
+
+Meeting With Abhinav, Got idea how to explore project.
+
+
+Day-5 Date- 19/04/22
+
+Tried to understand the library using examples.
+Tried to alter some fuction for understanding.
+
 
