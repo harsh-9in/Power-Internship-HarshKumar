@@ -27,3 +27,13 @@ Tried to understand the library using examples.
 Tried to alter some fuction for understanding.
 
 
+Day-6  Date- 20/04/22
+
+Tried to change some code to understand the working of nodes and edges.
+Read the documentation, to understand the flow.
+
+
+Day-7 Date-21/04/22
+
+Learned how to give commands in webpage from the keyboard.
+
