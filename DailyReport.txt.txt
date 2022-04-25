@@ -37,3 +37,18 @@ Day-7 Date-21/04/22
 
 Learned how to give commands in webpage from the keyboard.
 
+
+Day-8  Date-22/04/22
+
+Explored Doeumentation and deep-dives Network.js file to proceed 
+with the feature implementation.
+
+
+Day-9  Date-25/04/22
+
+Meeting with Abhinav
+Implemented the feature for the simple webpage and planned 
+how to implement it to the library.
+
+
+
