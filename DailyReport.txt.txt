@@ -51,4 +51,12 @@ Implemented the feature for the simple webpage and planned
 how to implement it to the library.
 
 
+Day-10  Date-26/04/22
+
+Meeting with Raunaq to discuss the steps to proceed further.
+Implemented some fuction to basic_usage.html file in the library to simulate the feature
+that i am going to build.
+Successfully Implemented the feature for basic_usage.html file.
+Planning how to implement it to the library.
+
 
