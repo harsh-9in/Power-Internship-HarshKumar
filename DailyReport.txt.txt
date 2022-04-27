@@ -60,3 +60,10 @@ Successfully Implemented the feature for basic_usage.html file.
 Planning how to implement it to the library.
 
 
+Day-11 Date-27/04/22
+
+Tried to integrate feature code to other examples.
+Getting Trouble to use the library outside/ external html code.
+Write some code to integrate externally with the example.
+
+
