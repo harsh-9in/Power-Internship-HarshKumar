@@ -74,3 +74,8 @@ Going through all the methods from the documentation.
 Tried to experiment with the methods which are given in the documentation.
 
 
+Day-13 Date-29/04/22
+
+Explored function written in the documentation.
+Enchanced my already written solution.
+
