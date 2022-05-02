@@ -79,3 +79,10 @@ Day-13 Date-29/04/22
 Explored function written in the documentation.
 Enchanced my already written solution.
 
+
+Day-14  Date-2/05/22
+
+Meeting with Abhinav.
+implementation of the functions.
+Resolve the bug for click.
+
