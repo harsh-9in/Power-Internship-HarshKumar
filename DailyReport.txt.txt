@@ -84,5 +84,12 @@ Day-14  Date-2/05/22
 
 Meeting with Abhinav.
 implementation of the functions.
-Resolve the bug for click.
+Resolve the bug for click.  
+
+
+Day-15  Date-4/05/22
+
+Successfully Implemented feature for the html file.
+Trying to integrate it with core library.
+
 
