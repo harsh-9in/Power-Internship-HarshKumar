@@ -96,3 +96,13 @@ Day-16  Date-5/05/22
 
 Tring to implement the feature in the another js file
 so that we can call the method in html file.
+
+
+Day-17  Date-09/05/22
+
+Morning- facing issue to integarte library and my feature.
+Meeting with Abhinav
+
+Evening- Explored the handler.js file and tried to integrate my feature accoding 
+to the handler.js file.
+
