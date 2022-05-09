@@ -92,4 +92,7 @@ Day-15  Date-4/05/22
 Successfully Implemented feature for the html file.
 Trying to integrate it with core library.
 
+Day-16  Date-5/05/22
 
+Tring to implement the feature in the another js file
+so that we can call the method in html file.
