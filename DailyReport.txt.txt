@@ -125,3 +125,8 @@ Day-20 Date-12/05/22
 
 Morning-Tring to implement and build library.
 
+
+Day-21 Date-16/05/22
+Successfully Implemented feature.js file which works the same as stated.
+
+
