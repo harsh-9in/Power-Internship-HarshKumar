@@ -130,3 +130,7 @@ Day-21 Date-16/05/22
 Successfully Implemented feature.js file which works the same as stated.
 
 
+Day-22 Date-17/05/22
+Tried to improve the code/make it efficient.
+
+
